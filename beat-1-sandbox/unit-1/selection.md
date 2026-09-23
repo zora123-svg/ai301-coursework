@@ -66,7 +66,7 @@ All three issues come from the scoped repo (`codepath/pathreview-ai301-fa26-s3`)
     "verdict": "accept"
   }
 ]
-```
+
 ```
 
 ---
